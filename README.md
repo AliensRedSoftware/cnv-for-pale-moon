@@ -9,7 +9,7 @@
 + Изменение иконок
 + Изменение прочее
 
-# Особенности
+# Установка
 1. <code>git clone https://github.com/AliensRedSoftware/cnv-for-pale-moon.git</code>
 2. <code>sudo chmod +x ./main.sh</code>
 3. <code>./main.sh</code>
